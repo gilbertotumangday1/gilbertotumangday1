@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+As you can see from my profile, my name is Gilberto and I am currently studying computer engineering at U of T! I am in my second year of study and plan to focus my experience on AI/ML throughout the rest of my program. I am currently working on learning the foundations that modern machine learning software operates on, and I am looking to get more experience working on projects and collaborating with other engineers who are fascinated by the possibilities of ML for computer engineering!
 <!--
 **gilbertotumangday1/gilbertotumangday1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
